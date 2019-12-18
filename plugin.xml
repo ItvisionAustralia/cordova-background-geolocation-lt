@@ -97,7 +97,7 @@
             </feature>
         </config-file>
 
-        <preference name="LICENSEN" default="" />
+        <preference name="LICENSE" default="" />
         <config-file parent="/manifest/application" target="app/src/main/AndroidManifest.xml">
           <meta-data
             android:name="com.transistorsoft.locationmanager.license_key"
